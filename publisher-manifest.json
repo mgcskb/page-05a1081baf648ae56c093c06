@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "510e407d1e17b43854d67591",
+  "owner": "mgcskb",
+  "repo": "page-05a1081baf648ae56c093c06",
+  "title": "白狗",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "05a1081baf648ae56c093c06",
+      "a": "白狗",
+      "b": "2027最新官网",
+      "entity": "白狗",
+      "brand": "白狗",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6d7bddc05dc579aa23600d317cd9e6339a9ea6748fdbd94ede480ae0ce59b7b6",
+      "content": {
+        "primary_entity": "白狗",
+        "keyword1": "白狗",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器各有适配版本，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好适合设备与流量的套餐，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "按需选套餐，配置即用",
+          "AI_DESCRIPTION": "，白狗面向需要稳定海外网络访问的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备，适合轻度使用；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备，提供 VIP 专属高带宽节点。按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与使用周期三个角度挑选白狗套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "单人手机加电脑选基础版 3 台设备够用，家庭多人共享则旗舰版 5 台或团队版 20 台更从容。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合浏览与社交，300GB 覆盖流媒体与游戏，1000GB 满足多设备高频使用。",
+          "AI_FEATURE_TEXT_3": "基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按年付比按月付更节省。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "白狗提供基础版、旗舰版与团队版三档海外加速套餐，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备。旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 高带宽节点，按年付价格更优惠。",
+          "AI_HERO_SUBTITLE": "白狗海外加速，多档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻度到团队使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付 ¥150 起更省费用",
+          "AI_PLANS_INTRO": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，流量从 100GB 到 1000GB，按年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版中选择合适的一档，按年付更划算。",
+          "AI_STEP_TEXT_2": "确认设备系统与版本满足客户端适配要求，Windows、macOS、Android、iOS 与路由器安装方式略有不同。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，参照对应客户端文档导入配置，即可在白狗节点上开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白狗海外加速",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常浏览，每月 100GB 流量与 3 台设备；若常看流媒体或玩游戏，旗舰版的 300GB 流量、5 台设备与 IPLC 专线更合适。",
+          "AI_FAQ_ANSWER_2": "按年付有明显优惠：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用建议直接选年付，单价更低。",
+          "AI_FAQ_ANSWER_3": "三档套餐分别支持 3 台、5 台和 20 台设备同时在线。家庭或小团队共享可选择旗舰版或团队版，避免设备数不足。",
+          "AI_FAQ_ANSWER_4": "订阅配置方式可在客户端文档中找到对应说明，不同系统导入步骤不同。选好客户端后按文档操作，遇到问题可通过工单获取支持。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 7x24 优先工单支持，团队版另配专属客户经理。多数订阅问题可通过工单处理，团队用户有更直接的服务通道。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数不够怎么办？",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎么获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ssrdog-gj7k537u.com",
+    "host": "xn--ssrdog-gj7k537u.com"
+  },
+  "file_hashes": {
+    "index.html": "f12cb54bf4efa11deb5a554dd3121fb723b6d73b503697146106d8670193feda",
+    "sitemap.xml": "e40d20b29693e8ad2a689fd22d41e587a7997b9b66661c0176f765f19438f59d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5401507e3335e7305ffd2954426f5bb9ef9af9331385ae3d1f2727b506c4b95e",
+    "robots.txt": "83d672c6d816419b7370bd93fd7cb995fcd8308edbb966f2d1e7f109a4cf912c",
+    "b556f639ea5ae3feddadbc387f02284f.txt": "ead152c4ae66bfad9f05b99a4449e5cea99238978b3ac01e0ec830bbf066422f"
+  },
+  "revision": "0037030e82ec26bf9239f689677d6a17dfd7ee387e2f0fe0c3456aa64a679b47"
+}
